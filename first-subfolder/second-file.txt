@@ -1,1 +1,2 @@
 second-file.txt
+ changes was made in the main branch
